@@ -1,0 +1,9 @@
+{
+  "appId": "com.qccamera.app",
+  "appName": "QC Camera",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
